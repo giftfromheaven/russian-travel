@@ -19,3 +19,4 @@
 
 ## Ссылка на GitHub Pages
 
+https://giftfromheaven.github.io/russian-travel/
