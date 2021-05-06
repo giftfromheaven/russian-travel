@@ -1,26 +1,23 @@
 .footer__row-link {
 	color: #ffffff;
-	text-decoration: none;
-	margin-right: 18px;
 	opacity: 1;
 	transition: all 0.5s ease;
+	list-style: none;
+	text-decoration: none;
 }
 
-.footer__row-link:last-child {
-	margin-right: 0;
-}
 
 .footer__row-link:hover {
 	opacity: 0.8;
 }
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
 	.footer__row-link {
 		margin-right: 0;
-		margin-bottom: 16px;
+		margin-bottom: 32px;
 	}
 
 	.footer__row-link:last-child {
 		margin-bottom: 0;
 	}
-}
+} */
