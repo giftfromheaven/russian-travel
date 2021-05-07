@@ -11,6 +11,7 @@
 
 @media screen and (max-width: 767px) {
     .place__website {
+        padding: 0 16px;
         margin: 0;
         align-self: end;
     }
