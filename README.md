@@ -22,6 +22,9 @@
 1. HTML5
 2. CSS3
 
+![2022-01-27_22-43-43](https://user-images.githubusercontent.com/72022227/151432479-ef4062b8-c8b1-42e0-aab8-335251e51970.png)
+
+
 ## Ссылка на GitHub Pages
 
 https://giftfromheaven.github.io/russian-travel/
